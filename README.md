@@ -1,5 +1,9 @@
 ## Hi there 👋
 I'm Juan, an Industrial Engineer with extensive experience in data analysis. I have over 5 years of experience working with multinational companies like Belcorp and Coca Cola, specializing in report reengineering, data-driven commercial strategy development, and forecast model optimization. Focused on improving key metrics and driving revenue growth, I have implemented innovative solutions in dynamic environments, leveraging tools like Power BI, SQL, Tableau, and Python. Trilingual in Spanish, English, and Portuguese, I am passionate about data analysis, storytelling and continuous improvement.
+
+## 💼 Technical Skills
+![image](https://github.com/user-attachments/assets/608f9b83-67d2-4e10-bbd9-bb3f9fb66d72) ![image](https://github.com/user-attachments/assets/d230bbab-951c-40ca-bf96-ef2dcf66b36d) ![image](https://github.com/user-attachments/assets/2d2fe0da-ddae-4011-9886-fdcc724e7b38) ![image](https://github.com/user-attachments/assets/12286282-9c02-4268-884f-0a851ef4da70)
+
 <!--
 **JuanOrtolani/JuanOrtolani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/st-olz
+https://github.com/tushar2704
+https://github.com/Ileriayo/markdown-badges
 -->
