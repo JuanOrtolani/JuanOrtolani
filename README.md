@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 https://github.com/st-olz
 https://github.com/tushar2704
 https://github.com/Ileriayo/markdown-badges
+https://dev.to/envoy_/150-badges-for-github-pnk?source=post_page-----36957caa711c--------------------------------
+https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c
 -->
