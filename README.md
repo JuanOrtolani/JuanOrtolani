@@ -23,8 +23,8 @@ I'm Juan, an Industrial Engineer with extensive experience in data analysis. I h
 
 ## 📝 Portfolio's
 
-  * [Data Analytics](https://github.com/JuanOrtolani/data_analytics_portfolio)
-  * [Data Science](https://github.com/JuanOrtolani/data_science_portfolio)
+  * #### [Data Analytics](https://github.com/JuanOrtolani/data_analytics_portfolio)
+  * #### [Data Science](https://github.com/JuanOrtolani/data_science_portfolio)
 
 
 
